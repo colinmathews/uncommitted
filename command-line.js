@@ -1,3 +1,4 @@
+#!/usr/bin/env node --harmony
 var numberUncommittedChanges = require('./index');
 var util = require('util');
 
