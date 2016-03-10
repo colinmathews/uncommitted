@@ -1,0 +1,25 @@
+{
+  "name": "uncommitted",
+  "version": "0.0.0",
+  "description": "Checks if a git repository has uncommitted changes.",
+  "main": "index.js",
+  "bin": "command-line.js",
+  "scripts": {
+    "test": "node command-line.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/colinmathews/uncommitted.git"
+  },
+  "keywords": [
+    "git",
+    "repository",
+    "prepublish"
+  ],
+  "author": "Colin Mathews",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/colinmathews/uncommitted/issues"
+  },
+  "homepage": "https://github.com/colinmathews/uncommitted#readme"
+}
